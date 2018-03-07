@@ -24,8 +24,10 @@ import java.util.Scanner;
  * At this point we have valid Morse code as space-separated letters! So the last step is to look up
  * each symbol in a table and return the corresponding letter value.
  */
-public class MorseDecoder {
+public class  MorseDecoder {
 
+
+    
     /**
      * Bin size for power binning. We compute power over bins of this size. You will probably not
      * need to modify this value.
